@@ -61,24 +61,3 @@ The Tableau dashboard provides an interactive view of:
 
 ## 📁 Project Structure
 
-```text
-online-retail-sales-analysis/
-│
-├── data/
-│   └── cleaned dataset.csv
-│   └── processed dataset.csv
-│   └── original dataset.csv
-│
-├── sql/
-│   └── online retail analysis.sql
-├── python/
-│   └── python notebook.ipynb
-│
-├── tableau/
-│   └── dashboard.twbx
-├── screenshot/
-│   └── dashboard screenshot
-│
-└── reports/
-    └── online_retail_sales_analysis_report.txt
-
